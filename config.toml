@@ -1,0 +1,57 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Portail Applis"
+theme = "slate"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+publishDir = "docs"
+
+[ params ]
+Favicon = "favicon.ico"
+OpenLinksInNewWindow = true
+
+
+[[ params.nav ]]
+name = "COCKPIT"
+tag = "cockpit"
+icon = "dashboard"
+
+[[ params.nav ]]
+name = "Donnees"
+tag = "donnees"
+icon = "database"
+
+[[ params.nav ]]
+name = "outils"
+tag = "outil"
+icon = "desktop"
+
+[[ params.nav ]]
+name = "POKER"
+tag = "poker"
+icon = "flask"
+
+[[ params.nav ]]
+name = "API"
+tag = "api"
+icon = "table"
+
+[[ params.nav ]]
+name = "DEVIN"
+tag = "devin"
+icon = "server"
+
+[[ params.nav ]]
+name = "Docs"
+tag = "docs"
+icon = "file"
+
+[[ params.nav ]]
+name = "Operation"
+tag = "operationnel"
+icon = "list"
+
+[[ params.nav ]]
+name = "dev-integration"
+tag = "dev-integration"
+icon = "code"

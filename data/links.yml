@@ -1,0 +1,247 @@
+tiles:
+
+-
+  name: 
+  url: "https://www.google.fr/"
+  img: "logos/logo_google_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://outlook.live.com/mail/"
+  img: "logos/logo_outlook_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.youtube.com/"
+  img: "logos/logo_youtube_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.spotify.com/"
+  img: "logos/logo_spotify_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.twitch.tv/"
+  img: "logos/logo_twitch_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.linkedin.com/"
+  img: "logos/logo_linkedin_final.png"
+  bg_color: "white"
+  txt_color: "#6441a5"
+  tags: ["outil", "devin"]
+-
+  name: 
+  url: "https://portal.portalia.fr/Portalia/Account/Login"
+  img: "logos/logo_portalia_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.notion.so/fr-fr"
+  img : "logos/logo_notion_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://github.com/"
+  img: "logos/logo_github_final.png"
+  bg_color: "#E5E5E5"
+  txt_color: "white"
+  tags: ["outil", "devin"]
+-
+  name: 
+  url: "https://www.caisse-epargne.fr/"
+  img: "logos/logo_caisse_epargne_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.revolut.com/fr-FR/"
+  img: "logos/logo_revolut_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://alan.com/"
+  img: "logos/logo_alan_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://ameliconnect.ameli.fr/oauth2/authorize?scope=openid+ameliconnect&response_type=code&nonce=7eb0f573a168&redirect_uri=https%3A%2F%2Fassure.ameli.fr%3A443%2FPortailAS%2Fappmanager%2FPortailAS%2Fassure%3F_nfpb%3Dtrue%26_pageLabel%3Das_login_page%26cb%3Dtrue&state=36e9bbcd7fdf5&client_id=compte_AS"
+  img: "logos/logo_ameli_final.png"
+  bg_color: "white"
+  txt_color: "#ffffff"
+  tags: ["outil", "devin"]
+-
+  name: 
+  url: "https://anaya.vsactivity.com/common/login/"
+  img: "logos/logo_vsa.svg "
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.bouyguestelecom.fr/tv-direct/"
+  img: "logos/logo_bbox_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.amazon.fr/"
+  img: "logos/logo_amazon_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://twitter.com/"
+  img: "logos/logo_twitter_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.lequipe.fr/"
+  img: "logos/logo_lequipe_final.png"
+  bg_color: "white"
+  txt_color: "darkgreen"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.airbnb.fr/"
+  img: "logos/logo_airbnb_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.booking.com/"
+  img: "logos/logo_booking_final.png"
+  bg_color: "#FFFFFF"
+  txt_color: "white"
+  tags: ["outil", "operationnel"]
+-
+  name: 
+  url: "https://app.spliiit.com/"
+  img: "logos/logo_spliiit_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.impots.gouv.fr/accueil"
+  img: "logos/logo_impots_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://myfoncia.fr/"
+  img : "logos/logo_foncia_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://clea.qualitel.org/"
+  img: "logos/logo_clea_final.svg"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://front-cristalliance.avepargne.fr/contrat?img_id=2212477&referrer=https%3A%2F%2Fcristalliance.avepargne.fr%2Faccueil#/"
+  img: "logos/logo_assurance_vie_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://normacapital.mipise.fr/fr/users/sign_in"
+  img: "logos/logo_SCPI_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.swile.co/fr-fr"
+  img: "logos/logo_swile_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.doctolib.fr/"
+  img: "logos/logo_doctolib_final.png"
+  bg_color: "#FFFFFF"
+  txt_color: "white"
+  tags: ["outil","docs"]
+-
+  name: 
+  url: "https://chat.openai.com/"
+  img: "logos/logo_chatGPT_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://mail.google.com/"
+  img: "logos/logo_gmail_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://connect.navigo.fr/"
+  img: "logos/logo_idF_Mobilité_final.png"
+  bg_color: "#FFFFFF"
+  txt_color: "#EB1330"
+  tags: ["outil","operationnel"]
+-
+  name: 
+  url: "https://www.backmarket.fr/fr-fr"
+  img: "logos/logo_backmarket_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.meetup.com/fr-FR/"
+  img: "logos/logo_meetup_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://www.monespacesante.fr/"
+  img: "logos/logo_monespacesante_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]
+-
+  name: 
+  url: "https://auth.mantu.com/u/login/identifier?state=hKFo2SA5ckZkb19XMFYzUHQ3M0QySHVWX0puNnQ3cnpOUkQyaqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEpwcWI3cTY5ZU15MlVIbHF6UGNoX3VIMTZXNFQxV01So2NpZNkgM2pRdGFzQ0hJNUVkRE81MEZ0aE1ZU1VWZWxubzc5R1o"
+  img : "logos/logo_mantu_final.png"
+  bg_color: "white"
+  txt_color: "darkblue"
+  tags: ["outil", "donnees"]

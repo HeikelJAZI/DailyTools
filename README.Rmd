@@ -117,9 +117,14 @@ On y trouve également ce lien important pour le déploiement initial du projet 
 Le lien ci-dessous va vous permettre d'e mettre en place d'ouvrir cette application  par défaut au lancement de votre navigateur Chrome 
 https://support.google.com/chrome/answer/95314?hl=fr&co=GENIE.Platform%3DDesktop
 
++ Aller dans les 3 points de suspensions en haut à gauche de votre navigateur 
++ Aller dans Paramètres 
++ Au démarrage 
++ Sélectionner : *Ouvrir une page ou un ensemble de pages spécifiques* et mettre le lien de l'application
+
 
 L'application est publiée depuis Github: 
-https://heikeljazi.github.io/DailyTools/#outil
+https://heikeljazi.github.io/DailyTools/
 
 
 Pour faire une mise à jour, une fois le projet Git cloné, il faut faire les changements, tester l'application localement puis déployer au même endroit. 

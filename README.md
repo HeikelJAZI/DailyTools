@@ -3,7 +3,7 @@
 
 ![exemple](readme-img.png)
 
-Ce projet a été mise en place avec la version 4.2.1 de Poker (R Studio)
+Ce projet a été mise en place avec la version 4.2.1 R Studio
 
 ![](https://img.shields.io/badge/R-4.2.1-blue)
 
@@ -79,8 +79,8 @@ menu du type
 
 ``` toml
 [[ params.nav ]]
-name = "POKER"
-tag = "poker"
+name = "Perso"
+tag = "perso"
 icon = "flask" #icone FontAwesome
 ```
 
@@ -106,21 +106,43 @@ Deux possibilités:
   - tags pour le classement
 - Faire une Merge Request après avoir modifier le fichier yaml
 
-## :five: Publier une mise à jour de l’appli sur POKER-PUBLI (A MODIFIER)
+## :five: Publier une mise à jour de l’appli sur Github (A MODIFIER)
 
-L’application est publiée sur POKER PUBLI:
-<http://poker-publi.rte-france.com/summer_challenge_HJ/>
+Ci-dessous un lien *IMPORTANT* expliquant comment déployer son
+application
+<https://docs.github.com/fr/pages/getting-started-with-github-pages/creating-a-github-pages-site>
 
-Pour faire une mise à jour, une fois le projet Git cloné (idéalement
-dans POKER-DEV), il faut faire les changements, tester l’application
-localement puis déployer au même endroit. Le dossier `rsconnect`
-contient tout le nécessaire pour faire cela et il devrait suffire de
-cliquer sur le bouton publish en haut à droite qui proposera la mise à
-jour du contenu.
+*Attention*, si l’application ne s’affiche pas lors du déploiement,
+n’hésitez pas à supprimer le cache de votre ordinateur qui doit garder
+en mémoire l’ancienne version de l’application qui n’est plus
+disponible. Pour ce faire, vous devez suivre les étapes suivantes :
 
-**Prérequis**: Il faut avoir les droits nécessaires pour modifier
-l’application sur POKER-PUBLI (être parmi les utilisateurs qui peuvent
-changer l’application).
+- Aller dans les 3 points de suspensions en haut à gauche de votre
+  navigateur
+- Aller dans Paramètres
+- Aller dans Confidentialité et sécurité
+- Aller dans Effacer es données de navigation
+- Effacer les données des 7 derniers jours par exmeple
+
+Le lien ci-dessous va vous permettre d’e mettre en place d’ouvrir cette
+application par défaut au lancement de votre navigateur Chrome
+<https://support.google.com/chrome/answer/95314?hl=fr&co=GENIE.Platform%3DDesktop>
+
+L’application est publiée depuis Github:
+<https://heikeljazi.github.io/DailyTools/#outil>
+
+Pour faire une mise à jour, une fois le projet Git cloné, il faut faire
+les changements, tester l’application localement puis déployer au même
+endroit.
+
+Reste à faire :
+
+- être encore plus explicite au niveau du README avec pourquoi pas des
+  captures d’écrans
+- mettre à jour les tags
+- pas obligatoire : trouver comment mettre un background dans
+  l’application (pas urgent ni nécessaire) en s’inspirant du commit lié
+  à la suppression de la redirection vers outils
 
 ## :six: Contacts
 

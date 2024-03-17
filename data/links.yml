@@ -9,7 +9,7 @@ tiles:
   tags: ["outil", "donnees"]
 -
   name: 
-  url: "https://outlook.live.com/mail/"
+  url: "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=22&ct=1710679072&rver=7.0.6738.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3d1ff3968c-03e3-8dc5-7a96-0e2e3577feec&id=292841&aadredir=1&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015"
   img: "logos/logo_outlook_final.png"
   bg_color: "white"
   txt_color: "darkblue"
@@ -212,7 +212,7 @@ tiles:
   tags: ["outil", "donnees"]
 -
   name: 
-  url: "https://connect.navigo.fr/"
+  url: "https://www.jegeremacartenavigo.iledefrance-mobilites.fr/espace_client/detail/50214025283848"
   img: "logos/logo_idF_Mobilité_final.png"
   bg_color: "#FFFFFF"
   txt_color: "#EB1330"
@@ -240,7 +240,7 @@ tiles:
   tags: ["outil", "donnees"]
 -
   name: 
-  url: "https://auth.mantu.com/u/login/identifier?state=hKFo2SA5ckZkb19XMFYzUHQ3M0QySHVWX0puNnQ3cnpOUkQyaqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEpwcWI3cTY5ZU15MlVIbHF6UGNoX3VIMTZXNFQxV01So2NpZNkgM2pRdGFzQ0hJNUVkRE81MEZ0aE1ZU1VWZWxubzc5R1o"
+  url: "https://auth.mantu.com/u/login/identifier?state=hKFo2SBucmlvUlBPOFQ0aVhZWDR5WjZUU1N2dUJBamt2aTZvU6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIE5ScTlPZExFa0hCcVBBVlJnNGxaenY2Ymp5NnpIdk91o2NpZNkgM2pRdGFzQ0hJNUVkRE81MEZ0aE1ZU1VWZWxubzc5R1o"
   img : "logos/logo_mantu_final.png"
   bg_color: "white"
   txt_color: "darkblue"

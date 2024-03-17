@@ -111,6 +111,9 @@ Deux possibilités:
 Ci-dessous un lien *IMPORTANT* expliquant comment déployer son
 application
 <https://docs.github.com/fr/pages/getting-started-with-github-pages/creating-a-github-pages-site>
+On y trouve également ce lien important pour le déploiement initial du
+projet sur Github
+<https://docs.github.com/fr/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site>
 
 *Attention*, si l’application ne s’affiche pas lors du déploiement,
 n’hésitez pas à supprimer le cache de votre ordinateur qui doit garder
